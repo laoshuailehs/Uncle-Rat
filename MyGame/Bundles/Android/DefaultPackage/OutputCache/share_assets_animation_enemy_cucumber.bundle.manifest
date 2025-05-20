@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 779329445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e876d23bfde2fa32cf0049c6f4ad1037
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_attackskill.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_deathHit.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_ground.anim
+- Assets/Animation/Enemy/Cucumber/CucumberSprite.controller
+- Assets/Animation/Enemy/Cucumber/Emeny_Cucumber_run.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_attack.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_jump2.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_Idle.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_deathGround.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_jump.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_hit.anim
+- Assets/Animation/Enemy/Cucumber/Enemy_Cucumber_fall.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_10-dead_hit.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_11-dead_ground.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_2-run.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_3-jump_anticipation.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_4-jump.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_5-fall.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_6-ground.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_7-attack.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_8-blow_the_wick.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_9-hit.bundle

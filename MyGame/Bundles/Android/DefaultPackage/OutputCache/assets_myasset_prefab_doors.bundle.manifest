@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3923321571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 544b77999f3255f8643e7d4cc4c0dc05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84ca819deef3439202cb73a4ff045415
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e1c3f061e64e52a500d42746c5ec31, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyAsset/Prefab/Doors.prefab
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_2-door_1-closed.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_animation_door.bundle

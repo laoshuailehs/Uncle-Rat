@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2433839398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80ec262903c9864f967b04fde0aa3749
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/2.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/4.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/7.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/5.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/1.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/9.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/8.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/6.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/3.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/8-Swalow (Bomb)/10.png
+Dependencies: []

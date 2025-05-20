@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2365452018
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 610341cce335b4fa7d91fbbb49a1306e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0314674c095a731c5b1e6f91323ca13d
+HashAppended: 0
+ClassTypes:
+- Class: 62
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Physic/bomb.physicsMaterial2D
+Dependencies: []

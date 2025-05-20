@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1746320399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aeaecd49c3c23b03930027c1d88a5cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/8.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/1.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/3.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/4.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/7.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/5.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/6.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/12-Hit/2.png
+Dependencies: []

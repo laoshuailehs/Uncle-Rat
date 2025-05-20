@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 109031598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e9710a73eb80053425c04dbb7921fb1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/7-Objects/2-Door/3-Closing/5.png
+- Assets/AddRes/Sprites/7-Objects/2-Door/3-Closing/1.png
+- Assets/AddRes/Sprites/7-Objects/2-Door/3-Closing/2.png
+- Assets/AddRes/Sprites/7-Objects/2-Door/3-Closing/4.png
+- Assets/AddRes/Sprites/7-Objects/2-Door/3-Closing/3.png
+Dependencies: []

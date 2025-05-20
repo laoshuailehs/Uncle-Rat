@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 921341064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2f6a64418468d980a460e23b5baa8be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/5-Fall/1.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/5-Fall/2.png
+Dependencies: []

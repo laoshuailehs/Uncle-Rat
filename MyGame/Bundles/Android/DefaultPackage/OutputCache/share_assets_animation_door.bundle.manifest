@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4010675716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92884f674b70c70d308ca1bf383895d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Door/Door_closed.anim
+- Assets/Animation/Door/DoorStart.controller
+- Assets/Animation/Door/Door_open.anim
+- Assets/Animation/Door/Door_close.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_2-door_1-closed.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_2-door_2-opening.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_2-door_3-closing.bundle

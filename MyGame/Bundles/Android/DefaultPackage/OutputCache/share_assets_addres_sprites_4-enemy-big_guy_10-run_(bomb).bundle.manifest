@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2641695753
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f46362d197f5f0d55fd1cac3e6d2b3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/2.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/1.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/5.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/8.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/4.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/14.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/12.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/10.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/16.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/11.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/13.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/9.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/15.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/3.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/7.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/10-Run (Bomb)/6.png
+Dependencies: []

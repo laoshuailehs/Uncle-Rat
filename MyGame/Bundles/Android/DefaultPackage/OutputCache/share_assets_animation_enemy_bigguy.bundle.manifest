@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4180510273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4c0fdada4eff7ed153ffef136afc1d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Enemy/BigGuy/BigGuySprite.controller
+- Assets/Animation/Enemy/BigGuy/BigGuy_throw_bomb.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_idle.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_attack.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_run_bomb.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_idle_bomb.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_run.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_death.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_hit.anim
+- Assets/Animation/Enemy/BigGuy/BigGuy_pick.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_10-run_(bomb).bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_11-throw_(bomb).bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_12-hit.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_13-dead_hit.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_14-dead_ground.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_2-run.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_7-attack.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_8-pick_(bomb).bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_9-idle_(bomb).bundle

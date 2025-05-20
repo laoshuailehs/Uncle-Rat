@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1116313172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c710b8ae9c738cf06f70ea4baf8a846
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9034854aa0f2a3ea111a6845acfb872f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45977bbae16431c46a013576a1aea384, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_joystick_pack_sprites_all_axis_backgrounds.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_joystick_pack_sprites_handles.bundle

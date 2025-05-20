@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2346117364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdfda0086b9167acf78e04836bc7e089
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/4-Jump/1.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/4-Jump/3.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/4-Jump/4.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/4-Jump/2.png
+Dependencies: []

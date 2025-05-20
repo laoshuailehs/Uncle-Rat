@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3957145460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9881d1a1c7e5d6a233602aac287245a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/13.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/20.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/22.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/10.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/2.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/15.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/14.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/17.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/7.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/9.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/21.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/18.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/11.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/5.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/1.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/4.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/6.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/3.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/8.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/12.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/16.png
+- Assets/AddRes/Sprites/7-Objects/17-Heart/1-Idle/19.png
+Dependencies: []

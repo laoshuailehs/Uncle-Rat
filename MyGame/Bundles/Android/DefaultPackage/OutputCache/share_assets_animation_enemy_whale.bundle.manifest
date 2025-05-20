@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 460252599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93c16cc60d85f4d936881ba1ceef5bc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Enemy/Whale/Whale_attackskill.anim
+- Assets/Animation/Enemy/Whale/WhaleSprite.controller
+- Assets/Animation/Enemy/Whale/Whale_idle.anim
+- Assets/Animation/Enemy/Whale/Whale_hit.anim
+- Assets/Animation/Enemy/Whale/Whale_death.anim
+- Assets/Animation/Enemy/Whale/Whale_run.anim
+- Assets/Animation/Enemy/Whale/Whale_attack.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_10-dead_hit.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_11-dead_ground.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_2-run.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_7-attack.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_8-swalow_(bomb).bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_6-enemy-whale_9-hit.bundle

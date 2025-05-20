@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1999350492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1b0e19e9d2e20b0a4342b13a286b605
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/2.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/7.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/5.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/10.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/6.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/1.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/11.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/9.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/3.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/8.png
+- Assets/AddRes/Sprites/3-Enemy-Cucumber/8-Blow the wick/4.png
+Dependencies: []

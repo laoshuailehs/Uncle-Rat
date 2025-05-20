@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 36182264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42757e408dd792c35c4efc82faea3795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png
+- Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png
+Dependencies: []

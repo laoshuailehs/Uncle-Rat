@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3255286473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d07f66e1d56726a2b1ba01989d3d32ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/18.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/26.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/13.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/21.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/27.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/36.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/7.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/19.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/22.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/11.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/20.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/28.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/29.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/32.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/12.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/2.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/17.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/33.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/37.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/6.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/9.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/35.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/4.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/34.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/1.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/5.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/31.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/38.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/8.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/10.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/15.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/25.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/23.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/16.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/3.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/30.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/24.png
+- Assets/AddRes/Sprites/4-Enemy-Big Guy/1-Idle/14.png
+Dependencies: []

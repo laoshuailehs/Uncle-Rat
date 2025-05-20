@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3145303891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58818d78d83dc74f18106fcc174ad35b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 000ab1edd7e9ef44e418e1ec1c7756ef
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Heart/Heart.anim
+- Assets/Animation/Heart/Heart.controller
+- Assets/Animation/Heart/HeartPlus.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_17-heart_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_17-heart_2-live+1.bundle

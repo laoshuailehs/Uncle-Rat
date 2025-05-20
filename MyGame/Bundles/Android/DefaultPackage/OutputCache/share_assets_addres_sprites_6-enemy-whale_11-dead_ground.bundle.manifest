@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 172198690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f06f4d2ea5c677addf0ce51e4238cc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/6-Enemy-Whale/11-Dead Ground/3.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/11-Dead Ground/4.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/11-Dead Ground/1.png
+- Assets/AddRes/Sprites/6-Enemy-Whale/11-Dead Ground/2.png
+Dependencies: []

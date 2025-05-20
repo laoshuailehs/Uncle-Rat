@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1455463838
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec72f1677c0c4cd67c788cea6425ba22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Enemy/BaldPirate/BaldPirate_hit.anim
+- Assets/Animation/Enemy/BaldPirate/BaldPirate_run.anim
+- Assets/Animation/Enemy/BaldPirate/BaldPirate_death.anim
+- Assets/Animation/Enemy/BaldPirate/BaldPirateSprite.controller
+- Assets/Animation/Enemy/BaldPirate/BaldPirate_idle.anim
+- Assets/Animation/Enemy/BaldPirate/BaldPirate_attack.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_2-enemy-bald_pirate_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_2-enemy-bald_pirate_10-dead_ground.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_2-enemy-bald_pirate_2-run.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_2-enemy-bald_pirate_7-attack.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_2-enemy-bald_pirate_8-hit.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_2-enemy-bald_pirate_9-dead_hit.bundle

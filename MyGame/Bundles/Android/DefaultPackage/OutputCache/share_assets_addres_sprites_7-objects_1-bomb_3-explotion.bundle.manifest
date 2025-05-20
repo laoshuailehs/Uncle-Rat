@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1460583347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 200c51f8a14a3e97e7e3b469ea182ed4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/4.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/6.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/9.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/7.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/1.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/2.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/3.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/5.png
+- Assets/AddRes/Sprites/7-Objects/1-BOMB/3-Explotion/8.png
+Dependencies: []

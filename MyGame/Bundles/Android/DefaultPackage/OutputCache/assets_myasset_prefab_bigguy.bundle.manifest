@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2931562853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01f38dbde3eca7f69c868faae699f0eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6dc75ff84b1be0a789b1920fef01e423
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ba35aff5d34ea942a37c18ed5b3920a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc8abf3202e8bbc4fb39e887b5ca3bbf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyAsset/Prefab/BigGuy.prefab
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_4-enemy-big_guy_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_5-exclamation_dialog_1-opening.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_animation_enemy_bigguy.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_animation_enemy_exclamation.bundle

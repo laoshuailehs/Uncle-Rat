@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3254057571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a24e70814eefcf03b9fd7d13071aa68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0e014d58ed8b38e582cb236ddbf64698
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b637a55c22972194e86c7580e7bccd76, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyAsset/Prefab/EmenyPoint.prefab
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/assets_myasset_prefab_baldpirate.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/assets_myasset_prefab_bigguy.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/assets_myasset_prefab_captain.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/assets_myasset_prefab_cucumber.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/assets_myasset_prefab_whale.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_9-small_chain.bundle

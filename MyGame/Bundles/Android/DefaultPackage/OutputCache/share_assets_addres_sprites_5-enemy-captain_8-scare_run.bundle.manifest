@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 891734437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 153a1a8c0a0318e862c0f365a761e857
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/1.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/12.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/11.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/9.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/3.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/10.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/4.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/7.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/8.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/5.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/2.png
+- Assets/AddRes/Sprites/5-Enemy-Captain/8-Scare Run/6.png
+Dependencies: []

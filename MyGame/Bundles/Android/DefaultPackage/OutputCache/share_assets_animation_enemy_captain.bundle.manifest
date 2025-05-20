@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 641494327
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06e8996373c74ddd0a4f5198e66527db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Enemy/Captain/Captain_death.anim
+- Assets/Animation/Enemy/Captain/CaptainSprite.controller
+- Assets/Animation/Enemy/Captain/Captain_attackskill.anim
+- Assets/Animation/Enemy/Captain/Captain_run.anim
+- Assets/Animation/Enemy/Captain/Captain_hit.anim
+- Assets/Animation/Enemy/Captain/Captain_attack.anim
+- Assets/Animation/Enemy/Captain/Captain_idle.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_10-dead_hit.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_11-dead_ground.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_2-run.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_7-attack.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_8-scare_run.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_5-enemy-captain_9-hit.bundle

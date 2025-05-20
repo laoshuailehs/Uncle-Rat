@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 440670836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d64425f77ce38a5b3bc3f2c6fd226fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 50d38ed905366b43870c7ad7f769f474
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0804001359b48fa9b3b9de5207d897c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc8abf3202e8bbc4fb39e887b5ca3bbf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MyAsset/Prefab/Cucumber.prefab
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_3-enemy-cucumber_1-idle.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_5-exclamation_dialog_1-opening.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_animation_enemy_cucumber.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_animation_enemy_exclamation.bundle

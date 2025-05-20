@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1574991734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cac8d4e3e684c9232d24d403af870822
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cda483f6ed45426ab843a91081928d3a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animation/Enemy/Exclamation/Exclamation.controller
+- Assets/Animation/Enemy/Exclamation/Exclamation_close.anim
+- Assets/Animation/Enemy/Exclamation/Exclamation_open.anim
+Dependencies:
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_5-exclamation_dialog_1-opening.bundle
+- E:/HS/TheBoom/MyGame/Bundles/Android/DefaultPackage/OutputCache/share_assets_addres_sprites_7-objects_5-exclamation_dialog_2-closing.bundle
