@@ -1,0 +1,1503 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-05-19-1006",
+    "PackageNote": "2025/5/19 16:46:04",
+    "AssetList": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/MyAsset/Code/HotUpdate.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/MyAsset/Code/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/MyAsset/Code/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/MyAsset/Code/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "BaldPirate",
+            "AssetPath": "Assets/MyAsset/Prefab/BaldPirate.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                71,
+                72,
+                76,
+                80
+            ]
+        },
+        {
+            "Address": "Barrel",
+            "AssetPath": "Assets/MyAsset/Prefab/Barrel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "BigGuy",
+            "AssetPath": "Assets/MyAsset/Prefab/BigGuy.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                71,
+                72,
+                77,
+                80
+            ]
+        },
+        {
+            "Address": "Blue Bottle",
+            "AssetPath": "Assets/MyAsset/Prefab/Blue Bottle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "Bomb",
+            "AssetPath": "Assets/MyAsset/Prefab/Bomb.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                65,
+                66,
+                67,
+                74,
+                87
+            ]
+        },
+        {
+            "Address": "Canvas",
+            "AssetPath": "Assets/MyAsset/Prefab/Canvas.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "CanvasGame",
+            "AssetPath": "Assets/MyAsset/Prefab/CanvasGame.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                61,
+                62,
+                63,
+                64,
+                82,
+                83,
+                84,
+                85,
+                86,
+                88,
+                89,
+                90
+            ]
+        },
+        {
+            "Address": "Captain",
+            "AssetPath": "Assets/MyAsset/Prefab/Captain.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependBundleIDs": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                71,
+                72,
+                78,
+                80
+            ]
+        },
+        {
+            "Address": "Chair",
+            "AssetPath": "Assets/MyAsset/Prefab/Chair.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "Cucumber",
+            "AssetPath": "Assets/MyAsset/Prefab/Cucumber.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependBundleIDs": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                71,
+                72,
+                79,
+                80
+            ]
+        },
+        {
+            "Address": "Doors",
+            "AssetPath": "Assets/MyAsset/Prefab/Doors.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependBundleIDs": [
+                68,
+                69,
+                70,
+                75
+            ]
+        },
+        {
+            "Address": "EmenyPoint",
+            "AssetPath": "Assets/MyAsset/Prefab/EmenyPoint.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependBundleIDs": [
+                1,
+                3,
+                8,
+                10,
+                18,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                71,
+                72,
+                73,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ]
+        },
+        {
+            "Address": "Green Bottle",
+            "AssetPath": "Assets/MyAsset/Prefab/Green Bottle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "Red Bottle",
+            "AssetPath": "Assets/MyAsset/Prefab/Red Bottle.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "Skull",
+            "AssetPath": "Assets/MyAsset/Prefab/Skull.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "Table",
+            "AssetPath": "Assets/MyAsset/Prefab/Table.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "Address": "Walls",
+            "AssetPath": "Assets/MyAsset/Prefab/Walls.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependBundleIDs": [
+                73
+            ]
+        },
+        {
+            "Address": "Whale",
+            "AssetPath": "Assets/MyAsset/Prefab/Whale.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependBundleIDs": [
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                71,
+                72,
+                80,
+                81
+            ]
+        },
+        {
+            "Address": "Windows",
+            "AssetPath": "Assets/MyAsset/Prefab/Windows.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependBundleIDs": [
+                62
+            ]
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_myasset_code.bundle",
+            "UnityCRC": 3682243765,
+            "FileHash": "ac766557d3dfd7e746d51fa2654b159c",
+            "FileCRC": "4999fcc7",
+            "FileSize": 1625414,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_myasset_prefab_baldpirate.bundle",
+            "UnityCRC": 2781337643,
+            "FileHash": "35e27601f3f05fbf597cd30fea6257cd",
+            "FileCRC": "f5f055b6",
+            "FileSize": 7499,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                71,
+                72,
+                76,
+                80
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_barrel.bundle",
+            "UnityCRC": 745854521,
+            "FileHash": "ee0ae634e993248384280597fc288afd",
+            "FileCRC": "b1dd059d",
+            "FileSize": 5154,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_bigguy.bundle",
+            "UnityCRC": 2931562853,
+            "FileHash": "3cbdec62048e6bb3cfc83fc394aa16cc",
+            "FileCRC": "8342ab42",
+            "FileSize": 7486,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                71,
+                72,
+                77,
+                80
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_blue_bottle.bundle",
+            "UnityCRC": 366368402,
+            "FileHash": "8f00841140cd46264e9ed14fc60d6a5b",
+            "FileCRC": "10a4963b",
+            "FileSize": 5141,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_bomb.bundle",
+            "UnityCRC": 3852146341,
+            "FileHash": "d0d37c4cef0a4ab6fc9635d29644f10d",
+            "FileCRC": "86063e31",
+            "FileSize": 6011,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                65,
+                66,
+                67,
+                74,
+                87
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_canvas.bundle",
+            "UnityCRC": 3286487285,
+            "FileHash": "8f0611f1b60cd0b3477fcd37995c4b4e",
+            "FileCRC": "07626269",
+            "FileSize": 11863,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_myasset_prefab_canvasgame.bundle",
+            "UnityCRC": 3810424995,
+            "FileHash": "26fedb863cc92ec7e6503397c5b20263",
+            "FileCRC": "76137809",
+            "FileSize": 22691,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                61,
+                62,
+                63,
+                64,
+                82,
+                84,
+                85,
+                86,
+                88,
+                89,
+                90
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_captain.bundle",
+            "UnityCRC": 2547574954,
+            "FileHash": "82e6e89c109851ec757b642b68704e42",
+            "FileCRC": "e03c424a",
+            "FileSize": 7347,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                71,
+                72,
+                78,
+                80
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_chair.bundle",
+            "UnityCRC": 2861240121,
+            "FileHash": "b8be5e4540a0b2fd5a114d529bbfdce3",
+            "FileCRC": "9ac613eb",
+            "FileSize": 5122,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_cucumber.bundle",
+            "UnityCRC": 440670836,
+            "FileHash": "659c7f1ea047c09a10d3f5c3e23de869",
+            "FileCRC": "137dd316",
+            "FileSize": 7331,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                71,
+                72,
+                79,
+                80
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_doors.bundle",
+            "UnityCRC": 3923321571,
+            "FileHash": "86f227bb87fe43ff4b10095d05f77aa6",
+            "FileCRC": "c5c0c8f5",
+            "FileSize": 6208,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                68,
+                69,
+                70,
+                75
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_emenypoint.bundle",
+            "UnityCRC": 3254057571,
+            "FileHash": "f0a05aa04105d631c5c8faebee9e6e07",
+            "FileCRC": "986920ce",
+            "FileSize": 5301,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                1,
+                3,
+                8,
+                10,
+                18,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                71,
+                72,
+                73,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_green_bottle.bundle",
+            "UnityCRC": 1080030027,
+            "FileHash": "a75f3ae3d6460f0c1a2e83b441283cc9",
+            "FileCRC": "ce17eafc",
+            "FileSize": 5130,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_red_bottle.bundle",
+            "UnityCRC": 3313856946,
+            "FileHash": "4b1a41a6724aecdbcc8f7eba8340fed5",
+            "FileCRC": "854973f9",
+            "FileSize": 5147,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_skull.bundle",
+            "UnityCRC": 1930947110,
+            "FileHash": "bbc4654d6acfdc0aa2431133a3d9bc1d",
+            "FileCRC": "11bdef2f",
+            "FileSize": 5020,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_table.bundle",
+            "UnityCRC": 340674823,
+            "FileHash": "664d2356a61efb7aa9626cdd83f79e3c",
+            "FileCRC": "c3ad899c",
+            "FileSize": 5175,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_walls.bundle",
+            "UnityCRC": 960855242,
+            "FileHash": "869e07ef84725625e458223d38793261",
+            "FileCRC": "c5526aa0",
+            "FileSize": 5039,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                73
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_whale.bundle",
+            "UnityCRC": 323138748,
+            "FileHash": "810a0cf8c19291847f84543bb8ec509f",
+            "FileCRC": "554cdcd1",
+            "FileSize": 7387,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                71,
+                72,
+                80,
+                81
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefab_windows.bundle",
+            "UnityCRC": 2656346606,
+            "FileHash": "1c0be3f2be1752cec448ad116f85edf1",
+            "FileCRC": "2c70aae3",
+            "FileSize": 4764,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                62
+            ]
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_2-enemy-bald_pirate_10-dead_ground.bundle",
+            "UnityCRC": 3622494051,
+            "FileHash": "d96b9a90a1e6e1ee5e80fad139f717e3",
+            "FileCRC": "342db830",
+            "FileSize": 6223,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_2-enemy-bald_pirate_1-idle.bundle",
+            "UnityCRC": 686027822,
+            "FileHash": "9bd6c6c4b1eed5f73f5b513bb7b32909",
+            "FileCRC": "b34fda7c",
+            "FileSize": 16780,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_2-enemy-bald_pirate_2-run.bundle",
+            "UnityCRC": 862972969,
+            "FileHash": "b27f84c9a3f90523a5288fb3413d5360",
+            "FileCRC": "804c9059",
+            "FileSize": 11250,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_2-enemy-bald_pirate_7-attack.bundle",
+            "UnityCRC": 123037771,
+            "FileHash": "b6f8b33cd226efcadd1504152bdb88dd",
+            "FileCRC": "39a2f598",
+            "FileSize": 11209,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_2-enemy-bald_pirate_8-hit.bundle",
+            "UnityCRC": 2763236498,
+            "FileHash": "3a41079099e7ef50745820499d76e564",
+            "FileCRC": "b0bc82cc",
+            "FileSize": 8385,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_2-enemy-bald_pirate_9-dead_hit.bundle",
+            "UnityCRC": 975133837,
+            "FileHash": "56ddc9bdbb8b80d685a6b0ea2258f45e",
+            "FileCRC": "971785f5",
+            "FileSize": 6463,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_10-dead_hit.bundle",
+            "UnityCRC": 1868554718,
+            "FileHash": "e9ebd5dffee6745fda4a322e51a2101e",
+            "FileCRC": "173534ef",
+            "FileSize": 6323,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_11-dead_ground.bundle",
+            "UnityCRC": 12291733,
+            "FileHash": "374288f6949361e8682c20b9a508e145",
+            "FileCRC": "05517bfa",
+            "FileSize": 6220,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_1-idle.bundle",
+            "UnityCRC": 1851937841,
+            "FileHash": "ad5ca9c00ee99f1b3fd62de0900ee3ff",
+            "FileCRC": "90bd6c9e",
+            "FileSize": 17327,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_2-run.bundle",
+            "UnityCRC": 1279545140,
+            "FileHash": "accb43a6fe604e5b1de4d17e8167e726",
+            "FileCRC": "9cf0ab14",
+            "FileSize": 9259,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_3-jump_anticipation.bundle",
+            "UnityCRC": 1822616676,
+            "FileHash": "78885c240c78122cb16a6524da65acf6",
+            "FileCRC": "28bf106e",
+            "FileSize": 4853,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_4-jump.bundle",
+            "UnityCRC": 2346117364,
+            "FileHash": "6573e210ec4fa97e3cee2fb1bc3c7506",
+            "FileCRC": "8674f73a",
+            "FileSize": 6123,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_5-fall.bundle",
+            "UnityCRC": 921341064,
+            "FileHash": "9099fb452794f07e633c214423f7bc2c",
+            "FileCRC": "8a9a95c8",
+            "FileSize": 5217,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_6-ground.bundle",
+            "UnityCRC": 1511545662,
+            "FileHash": "a4a43ca751dd0541d00b0f7b3c0732b7",
+            "FileCRC": "dca26023",
+            "FileSize": 5672,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_7-attack.bundle",
+            "UnityCRC": 3940886386,
+            "FileHash": "ec9386b1d0a269c05fd45997916833d0",
+            "FileCRC": "f313c316",
+            "FileSize": 9981,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_8-blow_the_wick.bundle",
+            "UnityCRC": 1999350492,
+            "FileHash": "84d0bbf76365053a4e598cbfa17fbf29",
+            "FileCRC": "beaf9f43",
+            "FileSize": 8427,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_3-enemy-cucumber_9-hit.bundle",
+            "UnityCRC": 2774936560,
+            "FileHash": "1a9e1cd1c575887b97582588c4c5b666",
+            "FileCRC": "66393aa2",
+            "FileSize": 7905,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_10-run_(bomb).bundle",
+            "UnityCRC": 2641695753,
+            "FileHash": "3779f735a89acd8a6b2c0b359c1b3b1f",
+            "FileCRC": "1740bbdf",
+            "FileSize": 15756,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_11-throw_(bomb).bundle",
+            "UnityCRC": 3237602805,
+            "FileHash": "329987587ff74ac81d4e03068e8ed0ed",
+            "FileCRC": "04cdc77c",
+            "FileSize": 13306,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_12-hit.bundle",
+            "UnityCRC": 1746320399,
+            "FileHash": "9339adf42f712deb08d27d4afa9b93a5",
+            "FileCRC": "ba4e5619",
+            "FileSize": 9595,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_13-dead_hit.bundle",
+            "UnityCRC": 2803312868,
+            "FileHash": "615920ff58bd4647f5ce74ac21a77f03",
+            "FileCRC": "c8635a9b",
+            "FileSize": 7342,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_14-dead_ground.bundle",
+            "UnityCRC": 3601400139,
+            "FileHash": "16ba244ab84bad7bb99cce40e6f4dc35",
+            "FileCRC": "53de24ba",
+            "FileSize": 6861,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_1-idle.bundle",
+            "UnityCRC": 3255286473,
+            "FileHash": "1298c095825476c0c476d32987941b5e",
+            "FileCRC": "c33d286e",
+            "FileSize": 28940,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_2-run.bundle",
+            "UnityCRC": 2051819043,
+            "FileHash": "e0abd519c21bb409be80c98366a6e731",
+            "FileCRC": "369ff678",
+            "FileSize": 16353,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_7-attack.bundle",
+            "UnityCRC": 1964791881,
+            "FileHash": "4eacdaae9a9bc60b68d11c4076df6de2",
+            "FileCRC": "7aa37b1c",
+            "FileSize": 13542,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_8-pick_(bomb).bundle",
+            "UnityCRC": 1969109489,
+            "FileHash": "d59c70a518b91d21b0151ad74c0a3112",
+            "FileCRC": "8c2f298f",
+            "FileSize": 9840,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_4-enemy-big_guy_9-idle_(bomb).bundle",
+            "UnityCRC": 3861530550,
+            "FileHash": "c6c6690ebb7eacbda3913b9df9e4d16e",
+            "FileCRC": "e962b9b2",
+            "FileSize": 5321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_10-dead_hit.bundle",
+            "UnityCRC": 1747714331,
+            "FileHash": "e265ee0d1d31ac8f3a272051425a498a",
+            "FileCRC": "9289e384",
+            "FileSize": 7703,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_11-dead_ground.bundle",
+            "UnityCRC": 1228746961,
+            "FileHash": "795e256093aa8e0ab667357b8e44fa44",
+            "FileCRC": "29e9d087",
+            "FileSize": 7093,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_1-idle.bundle",
+            "UnityCRC": 2166683007,
+            "FileHash": "449af8ccafa04ed59a41e529519c442a",
+            "FileCRC": "b2e62652",
+            "FileSize": 20130,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_2-run.bundle",
+            "UnityCRC": 2239998565,
+            "FileHash": "91bc1537a39b708ffad3ac2ca5a09899",
+            "FileCRC": "e8d610d9",
+            "FileSize": 15063,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_7-attack.bundle",
+            "UnityCRC": 2696947276,
+            "FileHash": "69e736c7e12f0f0f8a7c86d93fc25bc1",
+            "FileCRC": "ba25ec13",
+            "FileSize": 10346,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_8-scare_run.bundle",
+            "UnityCRC": 891734437,
+            "FileHash": "c61440f3db59c400ece3a1a5afec7389",
+            "FileCRC": "cac198d9",
+            "FileSize": 12432,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_5-enemy-captain_9-hit.bundle",
+            "UnityCRC": 4258877326,
+            "FileHash": "9c44600b7f0966c982bb2ce6fddc4d86",
+            "FileCRC": "7930e4fe",
+            "FileSize": 9182,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_10-dead_hit.bundle",
+            "UnityCRC": 2015807073,
+            "FileHash": "8305c7d0886c8957347e65df9c9247a4",
+            "FileCRC": "5396aefb",
+            "FileSize": 6519,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_11-dead_ground.bundle",
+            "UnityCRC": 172198690,
+            "FileHash": "0e66b3e46bc43dbd9928af84e014ba36",
+            "FileCRC": "0d61f288",
+            "FileSize": 6045,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_1-idle.bundle",
+            "UnityCRC": 320101821,
+            "FileHash": "43fe8489b5fb9dc00736577680f699ce",
+            "FileCRC": "99e7713a",
+            "FileSize": 21813,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_2-run.bundle",
+            "UnityCRC": 3773782249,
+            "FileHash": "7b8b1cbe4dd7b44e7976bbd75ed1a7c2",
+            "FileCRC": "bf4ad562",
+            "FileSize": 10986,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_7-attack.bundle",
+            "UnityCRC": 2743819717,
+            "FileHash": "30c6e463845b30704559423597c28ae0",
+            "FileCRC": "0759c33e",
+            "FileSize": 10545,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_8-swalow_(bomb).bundle",
+            "UnityCRC": 2433839398,
+            "FileHash": "6829b11cc451f90db044f8ccba8fba0c",
+            "FileCRC": "2e23b4d3",
+            "FileSize": 9689,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_6-enemy-whale_9-hit.bundle",
+            "UnityCRC": 3600010750,
+            "FileHash": "6105570951809cb9f8466951a6bdb155",
+            "FileCRC": "8c8b90fc",
+            "FileSize": 6685,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_11-health_bar.bundle",
+            "UnityCRC": 2020772963,
+            "FileHash": "c387037763bb2c2873890bb526d17844",
+            "FileCRC": "804aeee6",
+            "FileSize": 6201,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_12-other_objects.bundle",
+            "UnityCRC": 895412846,
+            "FileHash": "269c7a0e36e831483039572bdc222a5e",
+            "FileCRC": "c96fb935",
+            "FileSize": 8605,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_17-heart_1-idle.bundle",
+            "UnityCRC": 3957145460,
+            "FileHash": "7aede3a020e99920fc5e92c92484f66e",
+            "FileCRC": "b404b41f",
+            "FileSize": 6897,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_17-heart_2-live+1.bundle",
+            "UnityCRC": 3519732384,
+            "FileHash": "c25f9b8e64594296f4c9c7494e33697a",
+            "FileCRC": "6e068f8e",
+            "FileSize": 4759,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_1-bomb_1-bomb_off.bundle",
+            "UnityCRC": 1244965111,
+            "FileHash": "bc2d4809bf96175324c7735abfdc5303",
+            "FileCRC": "80b186a6",
+            "FileSize": 4959,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_1-bomb_2-bomb_on.bundle",
+            "UnityCRC": 752628051,
+            "FileHash": "222b344c8b7190ff0f718cbc585e7469",
+            "FileCRC": "896127f0",
+            "FileSize": 15084,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_1-bomb_3-explotion.bundle",
+            "UnityCRC": 1460583347,
+            "FileHash": "7c6800182a882fc54207e3472b438b4d",
+            "FileCRC": "c874f602",
+            "FileSize": 21166,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_2-door_1-closed.bundle",
+            "UnityCRC": 2487981365,
+            "FileHash": "3defb2a25664f6fa84d7ca8e4a72ce71",
+            "FileCRC": "c72d9166",
+            "FileSize": 5206,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_2-door_2-opening.bundle",
+            "UnityCRC": 1419103835,
+            "FileHash": "5cf6f4579b49009bc5c927dff87e961a",
+            "FileCRC": "b45d2357",
+            "FileSize": 7614,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_2-door_3-closing.bundle",
+            "UnityCRC": 109031598,
+            "FileHash": "ff1a1544ab7955e5440b1077750e6c34",
+            "FileCRC": "f4ea6477",
+            "FileSize": 8025,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_5-exclamation_dialog_1-opening.bundle",
+            "UnityCRC": 3064845722,
+            "FileHash": "d43b9e559ea86bc42341084d49b2d02b",
+            "FileCRC": "c95e0c8f",
+            "FileSize": 4859,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_5-exclamation_dialog_2-closing.bundle",
+            "UnityCRC": 803786874,
+            "FileHash": "d8a53b0af7c557e156e0039f27ea6b07",
+            "FileCRC": "d6291c4d",
+            "FileSize": 4393,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_addres_sprites_7-objects_9-small_chain.bundle",
+            "UnityCRC": 439590134,
+            "FileHash": "177fc6f186b63f312ba037303de96746",
+            "FileCRC": "7804d580",
+            "FileSize": 4706,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_animation_bomb.bundle",
+            "UnityCRC": 3018009951,
+            "FileHash": "d68a1e79639f5c2d760d35b0da6e474b",
+            "FileCRC": "491108ba",
+            "FileSize": 10097,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                65,
+                66,
+                67
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_door.bundle",
+            "UnityCRC": 4010675716,
+            "FileHash": "830db220d8e2496da7f9b62d13847064",
+            "FileCRC": "dc508b09",
+            "FileSize": 9882,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                68,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_enemy_baldpirate.bundle",
+            "UnityCRC": 1455463838,
+            "FileHash": "d1fa46fba5f36cffd6c6baaacafb967b",
+            "FileCRC": "1417fc12",
+            "FileSize": 12489,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_enemy_bigguy.bundle",
+            "UnityCRC": 4180510273,
+            "FileHash": "777bc51b2e3f0e84294b58fc67b0bbb9",
+            "FileCRC": "0738cd23",
+            "FileSize": 14373,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_enemy_captain.bundle",
+            "UnityCRC": 641494327,
+            "FileHash": "a7f58bca19b42cb8aef32e582dfec8b9",
+            "FileCRC": "ac3cc166",
+            "FileSize": 12867,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_enemy_cucumber.bundle",
+            "UnityCRC": 779329445,
+            "FileHash": "532452c52680f0b4ed45816029231107",
+            "FileCRC": "4e33f399",
+            "FileSize": 14343,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_enemy_exclamation.bundle",
+            "UnityCRC": 1574991734,
+            "FileHash": "562a7dd0f529ce431615ec3baa0d352a",
+            "FileCRC": "e424090a",
+            "FileSize": 9658,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                71,
+                72
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_enemy_whale.bundle",
+            "UnityCRC": 460252599,
+            "FileHash": "6732591c866c5fcf47c8374ac1098dfc",
+            "FileCRC": "cedbb934",
+            "FileSize": 12967,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60
+            ]
+        },
+        {
+            "BundleName": "share_assets_animation_heart.bundle",
+            "UnityCRC": 3145303891,
+            "FileHash": "d0f6281d90680e07dc795e001dc4896d",
+            "FileCRC": "49dd2188",
+            "FileSize": 10556,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                63,
+                64
+            ]
+        },
+        {
+            "BundleName": "share_assets_joystick_pack_prefabs.bundle",
+            "UnityCRC": 1116313172,
+            "FileHash": "1decfd7e5baa7f9a3f655a9171ba1f12",
+            "FileCRC": "5ef9ce71",
+            "FileSize": 4141,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                84,
+                85
+            ]
+        },
+        {
+            "BundleName": "share_assets_joystick_pack_sprites_all_axis_backgrounds.bundle",
+            "UnityCRC": 3725879920,
+            "FileHash": "1a79dbe107a51a56bc2df500230e712d",
+            "FileCRC": "f7de3c80",
+            "FileSize": 13878,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_joystick_pack_sprites_handles.bundle",
+            "UnityCRC": 36182264,
+            "FileHash": "4766fe15fc62ee79613af02ec32151fd",
+            "FileCRC": "490c1203",
+            "FileSize": 13616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_joystick_pack_sprites_horizontal_backgrounds.bundle",
+            "UnityCRC": 2296841851,
+            "FileHash": "470e0d60febd17218c8d7dabaadb4caf",
+            "FileCRC": "fc7afd20",
+            "FileSize": 9419,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_physic.bundle",
+            "UnityCRC": 2365452018,
+            "FileHash": "997f5e5ddcb0d8928ccb08630ddf17fc",
+            "FileCRC": "d6ce6f9e",
+            "FileSize": 1213,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_textmesh_pro_fonts.bundle",
+            "UnityCRC": 2645316284,
+            "FileHash": "44283381a6e44cfafd69ec5609518c65",
+            "FileCRC": "33e4646e",
+            "FileSize": 227229,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_textmesh_pro_resources_fonts_&_materials.bundle",
+            "UnityCRC": 1153980230,
+            "FileHash": "a0ffb6a7ffb005b76f0ee64841c36166",
+            "FileCRC": "6c1d7ae4",
+            "FileSize": 373513,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                88,
+                90
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 4111949490,
+            "FileHash": "a43868ba4791170daa5991c7084806da",
+            "FileCRC": "9a88d3c0",
+            "FileSize": 24881,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
